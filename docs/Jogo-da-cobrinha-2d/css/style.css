@@ -1,0 +1,21 @@
+
+body{
+    text-indent: 15%;
+}
+body .container{
+    background-size: cover;
+   background-image: url('/snakebg.jpg');
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkgreen;
+}
+
+h1{
+ color: darkred;
+ font-family: cursive;
+ font-size: 50px;
+}
